@@ -1,6 +1,6 @@
 ## Olá, eu sou o Renato Moraes!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moraewxs&show_icons=true&theme=neon&hide_rank=true&hide=issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moraewxs&hide_progress=true&theme=neon)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moraewxs&show_icons=true&theme=neon&hide_rank=true&hide=issues,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moraewxs&hide_progress=true&theme=neon)
 
 
 <!--
