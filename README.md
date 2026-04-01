@@ -1,5 +1,4 @@
 ## Olá, eu sou o Renato Moraes!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moraewxs&hide_progress=true&theme=neon)
 
  
 <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
